@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with **finding some Python project to contribute to**.
 
 - My skills :
+<br>
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="75" height="75" align=left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/900px-Godot_icon.svg.png?20170822201738" width="75" height="75" align=left>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="75" height="75" align=left>
