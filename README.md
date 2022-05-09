@@ -13,3 +13,5 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="75" height="75" align=left>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="75" height="75" align=left>
 </div>
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=farkon00&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align=right>
