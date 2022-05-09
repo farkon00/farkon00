@@ -6,12 +6,9 @@
 - 🤔 I’m looking for help with **finding some Python project to contribute to**.
 
 - My skills :
-<br>
-<div>
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="70" height="70" align=left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/900px-Godot_icon.svg.png?20170822201738" width="70" height="70" align=left>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="70" height="70" align=left>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="70" height="70" align=left>
-</div>
 
 <p align=center><img src="http://github-readme-streak-stats.herokuapp.com?user=farkon00&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align=center></p>
