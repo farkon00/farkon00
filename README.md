@@ -2,8 +2,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=farkon00&theme=radical&count_private=true&show_icons=true" align=right>
 
 - 🔭 I’m currently working on cont programming language
-- 🌱 I’m currently learning Godot
-- 🤔 I’m looking for help with **finding some Python project to contribute to**.
+- 🌱 I’m currently learning fasm x86_64
+- 🤔 I’m looking for help with writibg malloc in fasm/cont.
 
 - My skills :
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="65" height="65" align=left>
