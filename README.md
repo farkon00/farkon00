@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on cont programming language
 - 🌱 I’m currently learning fasm x86_64
-- 🤔 I’m looking for help with writibg malloc in fasm/cont.
+- 🤔 I’m looking for help with writing malloc in fasm/cont.
 
 - My skills :
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="65" height="65" align=left>
