@@ -1,7 +1,7 @@
 ### 🐍Junior Python Developer🐍
 <img src="https://github-readme-stats.vercel.app/api?username=farkon00&theme=radical&count_private=true&show_icons=true" align=right>
 
-- 🔭 I’m currently working on cont programming language
+- 🔭 I’m currently working on elth python library
 - 🌱 I’m currently learning elf file format
 
 - My skills :
